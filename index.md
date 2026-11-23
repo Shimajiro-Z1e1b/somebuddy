@@ -15,4 +15,4 @@ iPhone と Android のスマホで遊べます。無料です。課金・広告�
 
 [よくある質問・お問い合わせ](support/) ／ [プライバシーポリシー](privacy/)
 
-作った人：丹青二才
+作った人：丹青二才（[X @tansei2sai](https://x.com/tansei2sai)）
